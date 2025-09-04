@@ -15,3 +15,9 @@ Los ejercicios de fuerza son actividades diseñadas para aumentar la masa muscul
 3. Haz entre 3-4 series de 8-12 repeticiones por ejercicio.
 4. Descansa entre 60-90 segundos entre series.
 5. Finaliza con estiramientos para relajar los músculos trabajados.
+
+## Consejos
+- Mantén una técnica correcta antes de aumentar el peso.
+- Progresa gradualmente en la carga para evitar lesiones.
+- Alterna los grupos musculares en distintos días para una mejor recuperación.
+- No olvides hidratarte y mantener una buena alimentación.
